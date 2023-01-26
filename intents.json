@@ -1,0 +1,28 @@
+{"intents": [
+  {"tag": "greeting",
+    "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up", "Hey", "greetings"],
+    "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+    "context_set": ""
+  },
+  {"tag": "goodbye",
+    "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "bye", "cao", "see ya"],
+    "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+    "context_set": ""
+  },
+  {"tag": "stocks",
+    "patterns": ["what stocks do I own?", "how are my shares?", "what companies am I investing in?", "what am I doing in the markets?"],
+    "responses": ["You own the following shares: ABBV, AAPL, FB, NVDA and an ETF of the S&P 500 Index!"],
+    "context_set": ""
+  },
+  {"tag": "age",
+    "patterns": ["how old?", "how old are you?", "what is your age?", "age?"],
+    "responses": ["My owner bean is 20 years old.","20 happy years!!"],
+    "context_set": ""
+  },
+  {"tag": "name",
+    "patterns": ["what is your name?", "what should I call you by?", "who are you?", "can you tell me your name?"],
+    "responses": ["You can call me Beanie :)","I'm beanie","I'm an AI chatbot created by bean"],
+    "context_set": ""
+  }
+]
+}
