@@ -56,6 +56,9 @@ It's features will be:
 ![image](https://user-images.githubusercontent.com/112793420/215017898-66acd85e-5ae3-42a1-8cd2-28567e9bc84e.png)
 
 
+
+- How it responds to texts
+
 ![image](https://user-images.githubusercontent.com/112793420/215020266-4a5efadf-acab-4dd8-8833-580db8b21326.png)
 
 
