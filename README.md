@@ -49,4 +49,9 @@ It's features will be:
 
 . It's simple model of our chatbot with same libraries as our training model it works locally
 
-## 4.
+## 4. main.ipynb
+
+. This connects AI chatbot to discord 
+
+![image](https://user-images.githubusercontent.com/112793420/215017898-66acd85e-5ae3-42a1-8cd2-28567e9bc84e.png)
+
