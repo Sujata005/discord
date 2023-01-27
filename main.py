@@ -1,7 +1,7 @@
 import discord #importing discord
 import os
 import random       #just a lib to get get random number from a specific range
-TOKEN='OTg3NzM1NDc5Njg2NDE4NDUz.GytQvK.ssgMrDqvoNHn86OKM7t_cKYlnqSTu68qu_AGmU'      #we get the token while building bot in discord devloper portal
+TOKEN='FAKETOKEN192930291 BECAUSE I DON\'T WANT YOU TO USE MY BOT HEH'      #we get the token while building bot in discord devloper portal
 intent=discord.Intents.default()
 intent.members=True
 intent.message_content=True
