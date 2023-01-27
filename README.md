@@ -59,7 +59,8 @@ It's features will be:
 ![image](https://user-images.githubusercontent.com/112793420/215020266-4a5efadf-acab-4dd8-8833-580db8b21326.png)
 
 
-![image](https://user-images.githubusercontent.com/112793420/215020335-67c540a2-81c9-449a-9e2e-d7219a185bb3.png)
+![image](https://user-images.githubusercontent.com/112793420/215020924-553c13fd-efe1-4dc7-a87d-dd8d5b56c58c.png)
+
 
 
 
