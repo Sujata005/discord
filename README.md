@@ -1,4 +1,4 @@
-# discord
+# DISCORD
 `This is a discord chatbot`
 
 **I'm currently working on it**
@@ -11,6 +11,7 @@ It's features will be:
 
 -Learn with user interaction
 
+# Phase 1 : Manual reponses
 
 ## main.py
 
@@ -27,3 +28,25 @@ It's features will be:
 
 ![image](https://user-images.githubusercontent.com/112793420/215008435-4374f473-9611-442e-8f0e-90fb46f8645f.png)
 
+
+# Phase 2 : AI responses
+
+- It consists of four file
+
+
+## 1. intents.json
+
+. It consists of intents that conatin tags such as greeting with their pattern and responses
+
+![image](https://user-images.githubusercontent.com/112793420/215011158-8a0a392c-3291-435b-aac5-9490a7708e65.png)
+
+
+## 2. training.ipynb
+
+. With help of some modules such as numpy, json, pickle, nltk and random we train our bot to communicate with several training sets with the help of diffrent function
+
+## 3. chatbot.ipynb
+
+. It's simple model of our chatbot with same libraries as our training model it works locally
+
+## 4.
